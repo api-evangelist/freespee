@@ -1,0 +1,78 @@
+{
+    "name": "Freespee",
+    "description": "Freespee is the only customer communication platform that allows businesses and their website visitors or app users to talk in real-time via any interface, typed or spoken.    Freespee???s Conversation Cloud is designed to humanise online commerce operat...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1061-freespee.jpg",
+    "tags": [
+        "api provider",
+        "crm",
+        "have api",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/freespee\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Freespee",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1061-freespee.jpg",
+            "humanURL": "http:\/\/support.freespee.com\/hc\/en-us\/categories\/preview?developers",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/freespee-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/freespee-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.freespee.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.freespee.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds2.feedburner.com\/Freespee"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/freespee"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/freespee"
+        },
+        {
+            "type": "Email",
+            "url": "hello@freespee.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@freespee.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/freespeedreader"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/freespee"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/support.freespee.com\/hc\/en-us\/categories\/preview?developers"
+        }
+    ]
+}
